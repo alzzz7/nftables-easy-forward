@@ -8,10 +8,20 @@
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/alzzz7/nftables-easy-forward/main/nfteasy.sh)"
 ```
 
+大陆加速源
+```bash
+bash -c "$(curl -fsSL https://ghfast.top/https://raw.githubusercontent.com/alzzz7/nftables-easy-forward/main/nfteasy.sh)"
+```
+
 ## 卸载
 
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/alzzz7/nftables-easy-forward/main/nfteasy_uninstall.sh)"
+```
+
+大陆加速源
+```bash
+bash -c "$(curl -fsSL https://ghfast.top/https://raw.githubusercontent.com/alzzz7/nftables-easy-forward/main/nfteasy_uninstall.sh)"
 ```
 
 ## 何意味
